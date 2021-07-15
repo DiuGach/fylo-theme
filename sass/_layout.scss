@@ -1,0 +1,33 @@
+.header {
+    background-color: $Dark-blue-1;
+    display: flex;
+    justify-content: space-between;
+}
+
+.intro {
+    background-color: $Dark-blue-1;
+  
+}
+
+.features {
+   background-image: url(../images/bg-curvy-desktop.svg);
+   background-size: cover;
+   background-position: center;
+   background-color: $Dark-blue-1;
+}
+
+.productivity {
+    background-color: $Dark-blue-2;
+}
+
+.testimonial {
+    background-color: $Dark-blue-2;
+}
+
+.sign-up {
+    background-color: $Dark-blue-2;
+}
+
+.footer {
+    background-color: $Dark-blue-4;
+}
